@@ -4,34 +4,20 @@ You can use the [editor on GitHub](https://github.com/anonim161/anonim161.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Flappy Bird
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Flappy Bird has a gameplay with 2D graphics. The goal of the game is to control the flight of a bird that continuously moves between rows of green pipes. When you encounter them, the game ends. Control is performed by touching the screen, in which the bird makes a small jump up. In the absence of jerks, the bird falls due to gravity, and the game also ends. Points are awarded for each successful flight between two tubes. The gameplay remains the same throughout the game.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```FlappyBird
+You can find my flappybird project at the following link: https://anonim161.github.io/Flappybird/index.html
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Other projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anonim161/anonim161.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I haven't created any other projects yet!
 
-### Support or Contact
+### Support for my projects
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Found a bug in my project? Let me know immediately!
