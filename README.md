@@ -13,7 +13,7 @@ You can find my flappybird project at the following link:
 https://anonim161.github.io/Flappybird/index.html
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flappy Bird](https://github.com/anonim161/anonim161.github.io/).
 
 ### Other projects
 
